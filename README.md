@@ -54,7 +54,7 @@ Web sitem bir araç yazılım firmasının ne iş yaptığını, yaptığı işl
 
 <br/>
 
-<h3>Aşağıda görülen sayfa <b>Blog</b> sayfasıdır. İster sağ kısımdan ister blog kısmdan tıklayarak detay sayfalarına geçilebilir.</h3>
+<h3>Aşağıda görülen sayfa **Blog** sayfasıdır. İster sağ kısımdan ister blog kısmdan tıklayarak detay sayfalarına geçilebilir.</h3>
 
 <br/>
 
@@ -73,4 +73,5 @@ Web sitem bir araç yazılım firmasının ne iş yaptığını, yaptığı işl
 <h3>Sitemizin son sayfasında da <b>İletişim</b> kısmı gözükmektedir.</h3>
 
 <br/>
+
 ![Ekran görüntüsü 2024-08-07 150437](https://github.com/user-attachments/assets/3d9a1a23-c36e-42df-9012-d9ba32d03c9d)
