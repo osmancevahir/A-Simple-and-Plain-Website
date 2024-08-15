@@ -13,13 +13,13 @@ Web sitem bir araç yazılım firmasının ne iş yaptığını, yaptığı işl
 
 <br></br>
 ![Ekran görüntüsü 2024-08-07 150107](https://github.com/user-attachments/assets/fff8ce59-08c5-426b-95f6-edb26fccf35d)
-<br>
+<br></br>
 ![Ekran görüntüsü 2024-08-07 150140](https://github.com/user-attachments/assets/6699233e-f068-43ce-bb26-91ccfe9f595d)
 <br>
 ![Ekran görüntüsü 2024-08-07 150150](https://github.com/user-attachments/assets/9d142180-e19d-42b8-9346-a4b2cd7eb770)
 <br>
 ![Ekran görüntüsü 2024-08-07 150218](https://github.com/user-attachments/assets/b64a3043-7c92-4283-9e74-7a7eb60586a4)
-<br>
+<br><br>
 
 
 <h3>Bu kısımda her sayfamın altında olan <b>Footer</b> kısmını görüyorsunuz.</h3>
