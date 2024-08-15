@@ -23,9 +23,9 @@ Web sitem bir araç yazılım firmasının ne iş yaptığını, yaptığı işl
 
 
 <h3>Bu kısımda her sayfamın altında olan <b>Footer</b> kısmını görüyorsunuz.</h3>
-<br>
+<br><br>
 ![Ekran görüntüsü 2024-08-07 150229](https://github.com/user-attachments/assets/46b514fb-24a0-49fc-bf7f-ee24e785dada)
-<br>
+<br><br>
 
 
 <h3>Web sitemin <b>Hakkımızda</b> sayfasını görüyorsunuz.</h3>
