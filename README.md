@@ -11,7 +11,6 @@ Web sitem bir araç yazılım firmasının ne iş yaptığını, yaptığı işl
 
 <h3>Aşağıdaki fotoğraflarda <b>Anasayfa(index)</b> sayfamda bulunan kısımların fotoğraflarını görebilirsiniz.</h3>
 
-<br><br>
 ![Ekran görüntüsü 2024-08-07 150107](https://github.com/user-attachments/assets/fff8ce59-08c5-426b-95f6-edb26fccf35d)
 <h3>-----------------------------------------------------------------------------------------------------------------</h3>
   ![Ekran görüntüsü 2024-08-07 150140](https://github.com/user-attachments/assets/6699233e-f068-43ce-bb26-91ccfe9f595d)
