@@ -51,5 +51,5 @@ Web sitem bir araç yazılım firmasının ne iş yaptığını, yaptığı işl
 
 
 <h3>Sitemizin son sayfasında da <b>İletişim</b> kısmı gözükmektedir.</h3>
-
+<br><br>
 ![Ekran görüntüsü 2024-08-07 150437](https://github.com/user-attachments/assets/3d9a1a23-c36e-42df-9012-d9ba32d03c9d)
