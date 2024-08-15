@@ -6,7 +6,7 @@ Tasarlayıp hazırladığım web sitesini elimden geldiğince basit, sade ve anl
 WEB SİTEM HAKKINDA:
 Web sitem bir araç yazılım firmasının ne iş yaptığını, yaptığı işler hakkında (Ne?,Nedir?) şeklinde bir blog kısmının olduğu, hakkımızda, iletişim gibi sayfaları içinde barındıran bir web sitesi hazırladım
 
-Aşağıda olan fotoğraflar ANASAYFA(index) sayfamda bulunan kısımların fotoğraflarını görebilirsiniz.
+<h1>Aşağıda olan fotoğraflar ANASAYFA(index) sayfamda bulunan kısımların fotoğraflarını görebilirsiniz.</h1>
 
 
 ![Ekran görüntüsü 2024-08-07 150107](https://github.com/user-attachments/assets/fff8ce59-08c5-426b-95f6-edb26fccf35d)
