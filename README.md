@@ -54,7 +54,7 @@ Web sitem bir araç yazılım firmasının ne iş yaptığını, yaptığı işl
 
 <br/>
 
-<h3>Aşağıda görülen sayfa **Blog** sayfasıdır. İster sağ kısımdan ister blog kısmdan tıklayarak detay sayfalarına geçilebilir.</h3>
+<h3>Aşağıda görülen sayfa Blog sayfasıdır. İster sağ kısımdan ister blog kısmdan tıklayarak detay sayfalarına geçilebilir.</h3>
 
 <br/>
 
