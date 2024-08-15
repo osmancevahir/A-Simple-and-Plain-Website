@@ -4,7 +4,8 @@ Tasarlayıp hazırladığım web sitesini elimden geldiğince basit, sade ve anl
 
 
 WEB SİTEM HAKKINDA:
-Web sitem bir araç yazılım firmasının ne iş yaptığını, yaptığı işler hakkında (Ne?,Nedir?) şeklinde bir blog kısmının olduğu, hakkımızda, iletişim gibi sayfaları içinde barındıran bir web sitesi hazırladım.
+Web sitem bir araç yazılım firmasının ne iş yaptığını, yaptığı işler hakkında (Ne?,Nedir?) şeklinde bir blog kısmının olduğu, hakkımızda, iletişim gibi sayfaları içinde barındıran bir web sitesi hazırladım
+
 Aşağıda olan fotoğraflar ANASAYFA(index) sayfamda bulunan kısımların fotoğraflarını görebilirsiniz.
 
 
