@@ -18,6 +18,7 @@ Web sitem bir araç yazılım firmasının ne iş yaptığını, yaptığı işl
 
 
 <h3>Bu kısımda her sayfamın altında olan <b>Footer</b> kısmını görüyorsunuz.</h3>
+
 ![Ekran görüntüsü 2024-08-07 150229](https://github.com/user-attachments/assets/46b514fb-24a0-49fc-bf7f-ee24e785dada)
 
 
@@ -28,16 +29,20 @@ Web sitem bir araç yazılım firmasının ne iş yaptığını, yaptığı işl
 
 
 <h3>Firmanın yapmış olduğu Hizmetlerimiz sayfası, buradan ilgili başlıklara tıklayarak <b>Blog Detay</b> sayfasına yönlendirme yapılıyor.</h3>
+
 ![Ekran görüntüsü 2024-08-07 150258](https://github.com/user-attachments/assets/071407fa-33a9-4579-ae6f-30ee4fb9964f)
 
 
 <h3>Aşağıda görülen sayfa <b>Blog</b> sayfasıdır. İster sağ kısımdan ister blog kısmdan tıklayarak detay sayfalarına geçilebilir.</h3>
+
 ![Ekran görüntüsü 2024-08-07 150528](https://github.com/user-attachments/assets/60f6f1e1-f115-4573-90b6-8fd9b2dd0a48)
 
 
 <h3>Bu sayfamız <b>Blog Detay</b> sayfasıdır. istenilen kısımlarla alakalı daha detaylı bir bilgi öğrenmek için tasarlanmıştır.</h3>
+
 ![Ekran görüntüsü 2024-08-07 150609](https://github.com/user-attachments/assets/ec7baa0c-a2b4-4341-bae2-148db15bdd53)
 
 
 <h3>Sitemizin son sayfasında da <b>İletişim</b> kısmı gözükmektedir.</h3>
+
 ![Ekran görüntüsü 2024-08-07 150437](https://github.com/user-attachments/assets/3d9a1a23-c36e-42df-9012-d9ba32d03c9d)
