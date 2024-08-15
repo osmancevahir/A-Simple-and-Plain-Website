@@ -1,10 +1,13 @@
 # A-Simple-and-Plain-Website
 A website designed for car software/Araba yazılımları üzerine hazırlanmış bir web sitesi
+<p>
 Tasarlayıp hazırladığım web sitesini elimden geldiğince basit, sade ve anlaşılır bir şekilde yapmaya özen gösterdim.Aşağıdaki yazıları inceleyerek web sitem hakkında kodlara bakmadan nasıl bir tasarım yaptığım hakkında ön izleme yapabilirsiniz.Okuduğunuz ve destek verdiğiniz için teşekkür ederim.
+</p>
 
 
-WEB SİTEM HAKKINDA:
+<p><b>WEB SİTEM HAKKINDA:</b>
 Web sitem bir araç yazılım firmasının ne iş yaptığını, yaptığı işler hakkında (Ne?,Nedir?) şeklinde bir blog kısmının olduğu, hakkımızda, iletişim gibi sayfaları içinde barındıran bir web sitesi hazırladım
+</p>
 
 <h1>Aşağıda olan fotoğraflar ANASAYFA(index) sayfamda bulunan kısımların fotoğraflarını görebilirsiniz.</h1>
 
